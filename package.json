@@ -1,0 +1,17 @@
+{
+  "name": "backendlec_projsetup",
+  "version": "1.0.0",
+  "description": "A professional setup proj by Pashma.",
+  "keywords": [
+    "Javascript",
+    "Backend",
+    "code"
+  ],
+  "license": "ISC",
+  "author": "Pashma",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
